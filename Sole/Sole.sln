@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lampadina_upgraded", "lampadina_upgraded\lampadina_upgraded.csproj", "{9F7DF451-B87C-417E-9A6A-6C62145A62EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sole", "sole\sole.csproj", "{FC228D80-3167-4556-925B-1B05DF4F6C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F7DF451-B87C-417E-9A6A-6C62145A62EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7DF451-B87C-417E-9A6A-6C62145A62EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7DF451-B87C-417E-9A6A-6C62145A62EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7DF451-B87C-417E-9A6A-6C62145A62EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC228D80-3167-4556-925B-1B05DF4F6C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC228D80-3167-4556-925B-1B05DF4F6C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC228D80-3167-4556-925B-1B05DF4F6C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC228D80-3167-4556-925B-1B05DF4F6C12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {280D9BC0-77A2-481D-991E-5DC5233FD39D}
+	EndGlobalSection
+EndGlobal

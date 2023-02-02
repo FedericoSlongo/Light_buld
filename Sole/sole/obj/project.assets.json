@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "lampadina_upgraded/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/lampadina_upgraded.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lampadina_upgraded.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lampadina_upgraded/1.0.0": {
+      "type": "project",
+      "path": "../lampadina_upgraded/lampadina_upgraded.csproj",
+      "msbuildProject": "../lampadina_upgraded/lampadina_upgraded.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "lampadina_upgraded >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\fslongo\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\fslongo\\source\\repos\\Sole\\sole\\sole.csproj",
+      "projectName": "sole",
+      "projectPath": "C:\\Users\\fslongo\\source\\repos\\Sole\\sole\\sole.csproj",
+      "packagesPath": "C:\\Users\\fslongo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fslongo\\source\\repos\\Sole\\sole\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\fslongo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\fslongo\\source\\repos\\Sole\\lampadina_upgraded\\lampadina_upgraded.csproj": {
+              "projectPath": "C:\\Users\\fslongo\\source\\repos\\Sole\\lampadina_upgraded\\lampadina_upgraded.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

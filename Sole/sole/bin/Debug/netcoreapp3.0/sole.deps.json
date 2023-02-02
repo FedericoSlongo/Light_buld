@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "sole/1.0.0": {
+        "dependencies": {
+          "lampadina_upgraded": "1.0.0"
+        },
+        "runtime": {
+          "sole.dll": {}
+        }
+      },
+      "lampadina_upgraded/1.0.0": {
+        "runtime": {
+          "lampadina_upgraded.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lampadina_upgraded/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\fslongo\source\repos\Sole\lampadina_upgraded\bin\Debug\netcoreapp3.0\lampadina_upgraded.deps.json
+C:\Users\fslongo\source\repos\Sole\lampadina_upgraded\bin\Debug\netcoreapp3.0\lampadina_upgraded.dll
+C:\Users\fslongo\source\repos\Sole\lampadina_upgraded\bin\Debug\netcoreapp3.0\lampadina_upgraded.pdb
+C:\Users\fslongo\source\repos\Sole\lampadina_upgraded\obj\Debug\netcoreapp3.0\lampadina_upgraded.csprojAssemblyReference.cache
+C:\Users\fslongo\source\repos\Sole\lampadina_upgraded\obj\Debug\netcoreapp3.0\lampadina_upgraded.AssemblyInfoInputs.cache
+C:\Users\fslongo\source\repos\Sole\lampadina_upgraded\obj\Debug\netcoreapp3.0\lampadina_upgraded.AssemblyInfo.cs
+C:\Users\fslongo\source\repos\Sole\lampadina_upgraded\obj\Debug\netcoreapp3.0\lampadina_upgraded.dll
+C:\Users\fslongo\source\repos\Sole\lampadina_upgraded\obj\Debug\netcoreapp3.0\lampadina_upgraded.pdb

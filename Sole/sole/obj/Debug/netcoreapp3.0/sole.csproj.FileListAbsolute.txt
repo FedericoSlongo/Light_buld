@@ -1,0 +1,14 @@
+C:\Users\fslongo\source\repos\Sole\sole\bin\Debug\netcoreapp3.0\sole.exe
+C:\Users\fslongo\source\repos\Sole\sole\bin\Debug\netcoreapp3.0\sole.deps.json
+C:\Users\fslongo\source\repos\Sole\sole\bin\Debug\netcoreapp3.0\sole.runtimeconfig.json
+C:\Users\fslongo\source\repos\Sole\sole\bin\Debug\netcoreapp3.0\sole.runtimeconfig.dev.json
+C:\Users\fslongo\source\repos\Sole\sole\bin\Debug\netcoreapp3.0\sole.dll
+C:\Users\fslongo\source\repos\Sole\sole\bin\Debug\netcoreapp3.0\sole.pdb
+C:\Users\fslongo\source\repos\Sole\sole\bin\Debug\netcoreapp3.0\lampadina_upgraded.dll
+C:\Users\fslongo\source\repos\Sole\sole\bin\Debug\netcoreapp3.0\lampadina_upgraded.pdb
+C:\Users\fslongo\source\repos\Sole\sole\obj\Debug\netcoreapp3.0\sole.csprojAssemblyReference.cache
+C:\Users\fslongo\source\repos\Sole\sole\obj\Debug\netcoreapp3.0\sole.AssemblyInfoInputs.cache
+C:\Users\fslongo\source\repos\Sole\sole\obj\Debug\netcoreapp3.0\sole.AssemblyInfo.cs
+C:\Users\fslongo\source\repos\Sole\sole\obj\Debug\netcoreapp3.0\sole.csproj.CopyComplete
+C:\Users\fslongo\source\repos\Sole\sole\obj\Debug\netcoreapp3.0\sole.dll
+C:\Users\fslongo\source\repos\Sole\sole\obj\Debug\netcoreapp3.0\sole.pdb
