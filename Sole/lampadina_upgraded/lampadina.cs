@@ -47,9 +47,9 @@ namespace lampadina_upgraded
                 if (!stato)
                 {
                     Console.WriteLine("" +
-                        " _ " +
-                        "(~)" +
-                        " #");
+                        " _ \n" +
+                        "(~)\n" +
+                        " #\n");
                     return;
                 }
                 Console.WriteLine($"La potenza è : {potenza}");
